@@ -1,33 +1,19 @@
-Klivert
-Systems Engineering student with a growing focus on cybersecurity. I enjoy understanding how systems work, because knowing how they're built is the first step to knowing how to protect them.
+# Hola, soy Klivert 👋
 
-About Me
-Systems Engineering student
-Currently training in cybersecurity through the Fortinet Training Institute
-Building software projects to strengthen my development fundamentals
-Learning with consistency, one step at a time
-Areas of Interest
-Network security
-Security fundamentals and threat awareness
-Secure software development
-Mobile application development
-Skills
-Area	Tools & Languages
-Languages	Java, Python (basic), Dart, HTML
-Mobile	Flutter
-In progress	Cybersecurity (Fortinet), Full Stack
-Featured Project
-Music Player App — Flutter
-A mobile music player inspired by professional streaming apps. It includes playback controls, playlists and favorites, real-time search, light and dark themes, and an animated interface that adapts to each album's colors. User data is saved locally so it persists between sessions.
+Estudiante de **Ingeniería de Sistemas** (9.º semestre, Universidad Simón Bolívar, Cúcuta), enfocado en **ciberseguridad y redes**. Busco una pasantía a partir de 2027.
 
-Built with: Flutter · Dart · Provider · Shared Preferences
+## En lo que me estoy formando
+- Ciberseguridad con el **Fortinet Training Institute**
+- Redes con **Cisco Packet Tracer**
+- Plan Director de Seguridad y especificación de requisitos de software (DERS)
+- Inglés: de A2 a B1
 
-Current Goals
-Complete my Fortinet cybersecurity training
-Gain hands-on experience through labs and practical exercises
-Apply security best practices in my own projects
-Keep growing as a developer with a security mindset
+## Proyectos
+- **picohoy.com**: app web que informa el pico y placa en más de 20 ciudades de Colombia con base en los decretos de las alcaldías (Astro, TypeScript). Repositorio privado.
+- **EthicAI USB**: plataforma para aprender a usar la IA de forma crítica y honesta. [ethicai-usb](https://github.com/Klivert-kv/ethicai-usb)
 
-Contact
+## Tecnologías
+Python · Java · TypeScript · Astro · HTML · MySQL · Git
 
-Email: klivertchiquiza@gmail.com
+## Contacto
+klivertchiquiza@gmail.com
